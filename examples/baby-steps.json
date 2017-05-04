@@ -1,0 +1,16 @@
+{
+    "name": "First Test",
+    "subject": "math",
+    "questions": {
+        "1": {
+            "question": "What is seven plus six?",
+            "method":["simpleMath", "add"],
+            "paramaters":["7","6"]
+        },
+        "2": {
+            "question": "What is five plus three?",
+            "method":["simpleMath", "add"],
+            "paramaters":["5","3"]
+        }
+    }
+}
